@@ -157,6 +157,8 @@ main .left ul li a i:hover{
 }
 
 footer{
+    width: 1500px;
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content:space-between;
@@ -164,6 +166,8 @@ footer{
 footer p{
     font-family: font-family: 'Open Sans', sans-serif;
     padding: 10px;
+    padding-top: 22px;
+    font-size: 15pt;
 }
 footer ul{  
     display:flex;
