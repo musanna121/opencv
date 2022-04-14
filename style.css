@@ -23,8 +23,8 @@ nav h2{
 }
 nav h2:hover{
     cursor: pointer;
-    color: white;
-    background-color: rgb(209, 128, 28);
+    color: #003333;
+    background-color:#00ffff;
 }
 nav .text{
     display: flex;
@@ -63,7 +63,7 @@ nav .logo li{
     /* align-items: center; */
 }
 nav .logo li:hover i{
-    color:orange;
+    color: orange;
 }
 nav .logo li a{
     color: #001a1a;
@@ -130,7 +130,7 @@ main .left h2{
 main .left p{
     font-size: 19pt;
     color: #10b8b8;
-    font-family: font-family: 'Open Sans', sans-serif;
+    font-family:'Open Sans', sans-serif;
 }
 main .left ul{
     display: flex;
@@ -164,7 +164,7 @@ footer{
     justify-content:space-between;
 }
 footer p{
-    font-family: font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     padding: 10px;
     padding-top: 22px;
     font-size: 15pt;
