@@ -1,7 +1,7 @@
 body{
     color: white;
     background-color: #003333;
-    width: 1920px;
+    width: 1620px;
     margin: auto;
 
 }
@@ -166,12 +166,36 @@ main .left ul li a i:hover{
     color: #003333;
 }
 main .right{
-    width: 650px;
+    width: 500px;
     background-color: #001a1a;
     margin-left: 30px;
-    height: 450px;
+    height: 350px;
     font-family:'Open Sans', sans-serif;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 
+}
+main .right button{
+    background-color: #010f0f;
+    color: white;
+    width: 120px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 28px;
+    border-radius: 10px;
+    border: none;
+}
+main .right button a{
+    text-decoration: none;
+    font-family:'Open Sans', sans-serif;
+    color: white;
+}
+main .right button:hover{
+    background-color: #00ffff;
+}
+main .right button:hover a{
+    color:#001a1a;
 }
 footer{
     width: 1500px;
