@@ -179,16 +179,21 @@ main .right{
 main .right button{
     background-color: #010f0f;
     color: white;
-    width: 120px;
+    width: 130px;
     padding: 10px;
     margin-top: 20px;
     margin-right: 28px;
-    border-radius: 10px;
+    border-radius: 20px;
     border: none;
+}
+main .right p span{
+    font-weight: 800;
 }
 main .right button a{
     text-decoration: none;
     font-family:'Open Sans', sans-serif;
+    font-size: 12pt;
+    font-weight: 800;
     color: white;
 }
 main .right button:hover{
