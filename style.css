@@ -127,9 +127,10 @@ main .left .imgbox{
     height: 400px;
     border: 30px solid #2a5757;
     border-radius: 50%;
-    background-image: url("./images/dummy-user.png");
-    background-position-x: 15px;
-    background-position-y: 40px;
+    background-image: url("./images/small.jpg");
+    background-size: 600px;
+    background-position-x: -75px;
+    background-position-y: 0px;
     background-color: rgb(208, 223, 228);
     background-repeat: no-repeat;
 }
