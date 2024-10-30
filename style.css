@@ -55,7 +55,7 @@ nav .bar{
     flex-direction: row;
     margin-top: 30px;
     position: absolute;
-    left: 1600px;
+    right: -25px;
     top: 50px;
 
     
